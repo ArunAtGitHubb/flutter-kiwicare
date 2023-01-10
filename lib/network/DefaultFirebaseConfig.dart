@@ -8,10 +8,13 @@ class DefaultFirebaseConfig {
     if (kIsWeb) {
       // Web
       return const FirebaseOptions(
-        appId: '',
-        apiKey: '',
-        projectId: '',
-        messagingSenderId: '',
+        apiKey: "AIzaSyADwClWpz0mn7ysBCiefJ0l9wxyuTleP7c",
+        authDomain: "clinic-management-61bcf.firebaseapp.com",
+        projectId: "clinic-management-61bcf",
+        storageBucket: "clinic-management-61bcf.appspot.com",
+        messagingSenderId: "438676411823",
+        appId: "1:438676411823:web:25e9b9cb73d9bb19050b5a",
+        measurementId: "G-VRESJG3XXN",
       );
     } else if (Platform.isIOS || Platform.isMacOS) {
       // iOS and MacOS
