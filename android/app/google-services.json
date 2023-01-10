@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438676411823",
+    "project_id": "clinic-management-61bcf",
+    "storage_bucket": "clinic-management-61bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438676411823:android:4fbc9e008bc570fc050b5a",
+        "android_client_info": {
+          "package_name": "com.iqonic.kivicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438676411823-e042vp6maho7v7t97ra24f47685slpj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzvwzKDdGWcxdablsLIz6I0AEzJ9Fq7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438676411823-e042vp6maho7v7t97ra24f47685slpj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
